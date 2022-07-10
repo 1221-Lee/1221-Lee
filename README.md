@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1221-Lee
 - 👀 I’m interested in python.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning algolithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
